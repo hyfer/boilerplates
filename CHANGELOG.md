@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hyfer/boilerplates/compare/v1.0.0...v1.0.1) (2024-02-24)
+
+
+### Bug Fixes
+
+* add missing typescript dev dependency ([2b0a5f1](https://github.com/hyfer/boilerplates/commit/2b0a5f15cc305b5b3d3a6c7b1c1c1745de4f3c85))
+
 # 1.0.0 (2024-02-23)
 
 
