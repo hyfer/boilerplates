@@ -8,17 +8,18 @@
     "format": "prettier --write \"**/*.{ts,tsx,md,yaml,json}\""
   },
   "devDependencies": {
-    "@repo/eslint-config": "workspace:*",
-    "@repo/typescript-config": "workspace:*",
-    "prettier": "^3.1.1",
-    "turbo": "latest",
     "@commitlint/cli": "^18.6.1",
     "@commitlint/config-conventional": "^18.6.2",
+    "@repo/eslint-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
-    "semantic-release": "^23.0.2"
+    "prettier": "^3.1.1",
+    "semantic-release": "^23.0.2",
+    "turbo": "latest",
+    "typescript": "^5.3.3"
   },
   "packageManager": "pnpm@8.9.0",
   "engines": {
